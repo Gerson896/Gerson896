@@ -37,7 +37,7 @@ Experiencia en construcción de aplicaciones escalables, interfaces modernas y s
 
 ---
 
-### 📄 Resume
+### 📄 MI CV
 
 <p align="center">
   <a href="https://github.com/user-attachments/files/26806437/cv.pdf" target="_blank">

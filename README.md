@@ -2,7 +2,7 @@
 
 ### Aquí puedes encontrar todos los proyectos en los que estoy trabajando
 
-Gerson896
+Gerson Chamorro
 
 ## Mis repositorios
 

@@ -52,17 +52,7 @@ Experiencia en construcción de aplicaciones escalables, interfaces modernas y s
 <img src="https://img.shields.io/badge/Cloud-Experience-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software-Standards-important?style=for-the-badge"/>
 
-</div>
 
----
-
-# Mis estadísticas en Github
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gerson896&theme=dracula&no-frame=true&no-bg=true&margin-w=10"/>
-
-[![Gerson896's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerson896&show_icons=true&theme=dark)](https://github.com/Gerson896)
 
 </div>
 
@@ -87,7 +77,7 @@ Experiencia en construcción de aplicaciones escalables, interfaces modernas y s
 
 <div align="center">
 
-### stats
+# Mis estadísticas en Github
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Gerson896&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&show_icons=true&hide=issues,stars" />

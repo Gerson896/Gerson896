@@ -89,11 +89,14 @@ Experiencia en construcción de aplicaciones escalables, interfaces modernas y s
 
 ### stats
 
-![](https://github-readme-stats.vercel.app/api?username=Gerson896&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=12)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Gerson896&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&show_icons=true&hide=issues,stars" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gerson896&theme=dracula&hide_border=true&border_radius=12)
+<!-- Streak (opcional, quítalo si no te favorece) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerson896&theme=dracula&hide_border=true&border_radius=12" />
 
-![](https://github-contributor-stats.vercel.app/api?username=Gerson896&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true)
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson896&theme=dracula&hide_border=true&layout=compact&border_radius=12" />
 
 </div>
 

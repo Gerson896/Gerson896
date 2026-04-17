@@ -40,7 +40,7 @@ Experiencia en construcción de aplicaciones escalables, interfaces modernas y s
 ### 📄 Resume
 
 <p align="center">
-  <a href="https://tu-link-al-cv.pdf" target="_blank">
+  <a href="https://github.com/user-attachments/files/26806437/cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>

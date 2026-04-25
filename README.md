@@ -40,7 +40,7 @@ Experiencia en construcción de aplicaciones escalables, interfaces modernas y s
 ### 📄 MI CV
 
 <p align="center">
-  <a href="https://github.com/Gerson896/TU_REPO/raw/main/assets/HOJA-DE-VIDA-GERSON-CHAMORRO.pdf" target="_blank">
+  <a href="https://github.com/Gerson896/Gerson896/raw/main/HOJA-DE-VIDA-GERSON-CHAMORRO.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
